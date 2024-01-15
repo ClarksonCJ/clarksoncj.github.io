@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ClarksonCJ/clarksoncj.github.io.git
+	branch = master
+[submodule "themes/hugo-developer-portfolio"]
+	path = themes/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio

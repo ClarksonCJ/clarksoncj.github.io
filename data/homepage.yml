@@ -1,0 +1,15 @@
+---
+banner:
+  title: "Chris Clarkson"
+  image: "images/chrisclarkson.jpg" # Contain the path of the optionnal avatar in the static folder.
+social:
+  twitter: "clarksoncj"
+  linkedin: "cjclarkson"
+  github: "clarksoncj"
+  gitlab: "clarksoncj"
+about:
+  enable: true
+  content: "Seasoned Security Engineer | Safeguarding Cloud, Applications, and Software Supply Chains | Designing Secure Solutions with Zero Trust and DevSecOps Expertise"
+  button:
+    btnText: "Find out more"
+    URL: "/personal"
