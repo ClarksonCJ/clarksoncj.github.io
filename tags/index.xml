@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ChrisClarkson.org</title>
-    <link>/tags/</link>
+    <link>https://chrisclarkson.org/tags/</link>
     <description>Recent content in Tags on ChrisClarkson.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jan 2024 20:00:00 +0100</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chrisclarkson.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginning</title>
-      <link>/tags/beginning/</link>
+      <link>https://chrisclarkson.org/tags/beginning/</link>
       <pubDate>Sun, 14 Jan 2024 20:00:00 +0100</pubDate>
-      <guid>/tags/beginning/</guid>
+      <guid>https://chrisclarkson.org/tags/beginning/</guid>
       <description></description>
     </item>
     <item>
       <title>Content</title>
-      <link>/tags/content/</link>
+      <link>https://chrisclarkson.org/tags/content/</link>
       <pubDate>Sun, 14 Jan 2024 20:00:00 +0100</pubDate>
-      <guid>/tags/content/</guid>
+      <guid>https://chrisclarkson.org/tags/content/</guid>
       <description></description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>/tags/introduction/</link>
+      <link>https://chrisclarkson.org/tags/introduction/</link>
       <pubDate>Sun, 14 Jan 2024 20:00:00 +0100</pubDate>
-      <guid>/tags/introduction/</guid>
+      <guid>https://chrisclarkson.org/tags/introduction/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>/tags/security/</link>
+      <link>https://chrisclarkson.org/tags/security/</link>
       <pubDate>Sun, 14 Jan 2024 20:00:00 +0100</pubDate>
-      <guid>/tags/security/</guid>
+      <guid>https://chrisclarkson.org/tags/security/</guid>
       <description></description>
     </item>
   </channel>

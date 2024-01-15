@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ChrisClarkson.org</title>
-    <link>/categories/posts/</link>
+    <link>https://chrisclarkson.org/categories/posts/</link>
     <description>Recent content in Posts on ChrisClarkson.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jan 2024 20:00:00 +0100</lastBuildDate>
-    <atom:link href="/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chrisclarkson.org/categories/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relaunch</title>
-      <link>/posts/relaunch/</link>
+      <link>https://chrisclarkson.org/posts/relaunch/</link>
       <pubDate>Sun, 14 Jan 2024 20:00:00 +0100</pubDate>
-      <guid>/posts/relaunch/</guid>
+      <guid>https://chrisclarkson.org/posts/relaunch/</guid>
       <description>Welcome Back to the New Era of Cybersecurity Insights!</description>
     </item>
     <item>
       <title></title>
-      <link>/posts/</link>
+      <link>https://chrisclarkson.org/posts/</link>
       <pubDate>Mon, 01 Oct 2018 16:52:02 +0100</pubDate>
-      <guid>/posts/</guid>
+      <guid>https://chrisclarkson.org/posts/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/personal/</loc>
+    <loc>https://chrisclarkson.org/personal/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/beginning/</loc>
+    <loc>https://chrisclarkson.org/tags/beginning/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://chrisclarkson.org/categories/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://chrisclarkson.org/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/content/</loc>
+    <loc>https://chrisclarkson.org/tags/content/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/introduction/</loc>
+    <loc>https://chrisclarkson.org/tags/introduction/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/categories/posts/</loc>
+    <loc>https://chrisclarkson.org/categories/posts/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/posts/relaunch/</loc>
+    <loc>https://chrisclarkson.org/posts/relaunch/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/security/</loc>
+    <loc>https://chrisclarkson.org/tags/security/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://chrisclarkson.org/tags/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://chrisclarkson.org/posts/</loc>
     <lastmod>2018-10-01T16:52:02+01:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://chrisclarkson.org/series/</loc>
   </url>
 </urlset>
