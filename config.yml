@@ -49,7 +49,7 @@ params:
   itemscentered: true
   rtl: false
   snsShare: true
-  thumbnail: images/logo.jpg
+  thumbnail: images/favicon.png
   langseparator: '|'
   ShowReadingTime: true
   ShowShareButtons: true
@@ -95,3 +95,9 @@ params:
     - name: LinkedIn
       weight: 4
       url: 'https://www.linkedin.com/in/cjclarkson/'
+  assets:
+    favicon: favicon.png
+    favicon16x16: favicon-16x16.png
+    favicon32x32: favicon-32x32.png
+    apple_touch_icon: favicon.png
+    safari_pinned_tab: favicon.png
