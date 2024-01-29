@@ -58,7 +58,7 @@ into the HR system in your first few days and make sure that info is correct and
 effect.
 
 __Takeaway:__ Be sure to get your records up to date as soon as possible so you dont miss out on that first payroll, or
-enrolment onto your benefits.
+enrollment onto your benefits.
 
 ## Attend and participate in Onboarding Sessions
 
