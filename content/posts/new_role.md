@@ -54,7 +54,7 @@ my new company, and trust me, it's been a game-changer. Let's jump right in!
 ## Update your records
 
 The majority of companies have fixed dates for when they process your benefits, salary, etc. For peace of mind log
-into the HR system and make sure that info is correct and up to date so you get paid on time and your benefits take
+into the HR system in your first few days and make sure that info is correct and up to date so you get paid on time and your benefits take
 effect.
 
 __Takeaway:__ Be sure to get your records up to date as soon as possible so you dont miss out on that first payroll, or
@@ -71,7 +71,7 @@ embrace them and get as much from them as you can.
 
 ## Customize Your Workstation
 
-Setting up your device to your preferences is key to doing your best work. Familiarity breeds comfort, and amidst the
+Setting up your device to your preferences is key to doing your best work. Familiarity breeds comfort, and in the
 whirlwind of a new role, a bit of comfort goes a long way. Take time to tweak your settings, personalize your tools,
 and create a workspace that feels like home. This not only helps in reducing stress but also increases productivity.
 Nothing ingratiates you better with your new team than being an effective member as quickly as possible.
@@ -98,11 +98,11 @@ __Takeaway:__  You will learn more by doing than by reading endless wiki's. "Goo
 opportunity to show off your skills relatively early in your tenure, not to mention the confidence boost that comes
 with it.
 
-## Network Within Your Team
+## Grow your network
 
 Find out the key people you should connect with and set up meetings with them. Understanding how your role intersects
-with theirs and asking about their responsibilities can provide valuable insights. This also helps in building your
-internal network.
+with theirs and asking about their responsibilities can provide valuable insights. This also helps build your
+ network.
 
 __Takeaway:__ Its not just what you know, its who you know too. Take the time and effort to develop your network in the new role,
 starting with your team mates. They will have the greatest bearing on your success in the early days.
@@ -116,7 +116,7 @@ can be great for this. This habit will be invaluable as you navigate through you
 __Takeaway:__ Starting any new role is like "drinking from the firehose", you will need some way to organise the information
 you are getting in a way that makes sense to you. There are lots of tools and techniques to help, use them.
 
-## Its all about balance
+## It's all about balance
 
 Join groups on Slack or other platforms that interest you. Conversations about hobbies or non-work topics are essential
 for a balanced work life. They provide a necessary break from work and help in building relationships with your colleagues.
@@ -130,10 +130,10 @@ likeminded people at your company and maybe make some friends.
 When I started at a previous firm, a new colleague shared his view that Security was like an intelligence agency and to remember that
 not only are you mitigating risks, implementing controls, and improving the safety of the service for your customers; you are in a position
 to see behind the curtain of areas of the business that most never see. Going further to explain that the people you meet,
-the work you do, and the outcomes you are aiming for are all intertwined and give you a unique and powerful
+the work you do, and the objectives you are aiming for are all intertwined and give you a unique and powerful
 perspective on the business and its outcomes, and that you can use that interconnectedness as a force multiplier.
 I had never thought of it that way before, but it made a lot of sense very quickly as I became more and more immersed in the company. As I was
-meeting people, and working with teams across the organisation, I came to an understanding of their motivations and incentives, and was better able to align what
+meeting people, and working with teams across the organisation, I came to understand their motivations and incentives, and was better able to align what
 I needed from them, and what they needed from me.
 
 A great example of the insight you can glean, is that there may be a perception that security is a high priority
@@ -152,7 +152,7 @@ __Takeaway:__ You'll interact with various parts of the business, and be exposed
 your "Second Brain" with this info. Dont forget to add some of your own context to this information aswell and it can reveal new
 perspectives and insights that really help you amplify your successes.
 
-Starting a new role in cybersecurity can be both challenging and exhilarating. By following these guidelines, you'll
+Starting a new role in cybersecurity can be both challenging and exhilarating. These tips will
 not only ease your transition into the new role but also lay a strong foundation for a successful career in this dynamic
 field.
 
