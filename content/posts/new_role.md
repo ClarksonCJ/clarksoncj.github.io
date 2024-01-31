@@ -1,5 +1,5 @@
 +++
-date = 2024-01-22T20:00:00Z
+date = 2024-01-31T20:00:00Z
 publishDate = 2024-01-31T20:00:00Z
 title = "Starting a new role in Cybersecurity"
 slug = "new_beginnings"
