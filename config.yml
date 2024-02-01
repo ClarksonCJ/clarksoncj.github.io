@@ -2,6 +2,10 @@ module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
 
+services:
+  googleAnalytics:
+    ID: G-XG3WNT68QZ
+
 baseURL: 'https://chrisclarkson.org'
 mainsections:
   - posts
