@@ -24,6 +24,9 @@ tags = [
     "Managing Workload in Security Contracting",
     "Self-Care for Cybersecurity Professionals",
     "Future of Freelancing in Tech",
+    "Security",
+    "Career Development in Cybersecurity",
+    "Cybersecurity Career Tips",
 ]
 categories = ["Posts"]
 thumbnail = "images/new_role_post_logo.png"
