@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChrisClarkson.org</title>
-    <link>https://chrisclarkson.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content on ChrisClarkson.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Oct 2018 16:52:02 +0100</lastBuildDate>
-    <atom:link href="https://chrisclarkson.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tradecraft for Security Contractors</title>
+      <link>http://localhost:1313/posts/contractor_tradecraft/</link>
+      <pubDate>Sat, 24 Feb 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/contractor_tradecraft/</guid>
+      <description>Some insights into the tradecraft of a security engineering contractor. Delivering for your customer and yourself.</description>
+    </item>
+    <item>
+      <title>Starting a new role in Cybersecurity</title>
+      <link>http://localhost:1313/posts/new_beginnings/</link>
+      <pubDate>Wed, 31 Jan 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new_beginnings/</guid>
+      <description>A new role with a company can be a daunting experience. I hope these tips are helpful</description>
+    </item>
     <item>
       <title>Relaunch</title>
-      <link>https://chrisclarkson.org/posts/relaunch/</link>
+      <link>http://localhost:1313/posts/relaunch/</link>
       <pubDate>Sun, 14 Jan 2024 20:00:00 +0100</pubDate>
-      <guid>https://chrisclarkson.org/posts/relaunch/</guid>
+      <guid>http://localhost:1313/posts/relaunch/</guid>
       <description>Welcome Back to the New Era of Cybersecurity Insights!</description>
     </item>
   </channel>

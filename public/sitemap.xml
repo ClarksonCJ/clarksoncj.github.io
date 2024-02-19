@@ -2,39 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chrisclarkson.org/personal/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-02-24T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-24T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/contractor_tradecraft/</loc>
+    <lastmod>2024-02-24T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/posts/</loc>
+    <lastmod>2024-02-24T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/career-development-in-cybersecurity/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity-career-tips/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity-insights-and-context/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity-manager-meetings/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity-networking/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity-onboarding/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity-team-integration/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity-trust-building/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/effective-security-communication/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hands-on-learning-in-security/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/information-management-in-security/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/navigating-cybersecurity-challenges/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/new-role-in-cybersecurity/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security-engineer-guidance/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security-intelligence-operations/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security-perception-vs.-perspective/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/new_beginnings/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/work-life-balance-in-tech/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/workstation-customization/</loc>
+    <lastmod>2024-01-31T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://chrisclarkson.org/tags/beginning/</loc>
+    <loc>http://localhost:1313/tags/beginning/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://chrisclarkson.org/categories/</loc>
+    <loc>http://localhost:1313/tags/content/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://chrisclarkson.org/</loc>
+    <loc>http://localhost:1313/tags/introduction/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://chrisclarkson.org/tags/content/</loc>
+    <loc>http://localhost:1313/posts/relaunch/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://chrisclarkson.org/tags/introduction/</loc>
+    <loc>http://localhost:1313/tags/security/</loc>
     <lastmod>2024-01-14T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://chrisclarkson.org/categories/posts/</loc>
-    <lastmod>2024-01-14T20:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://chrisclarkson.org/posts/relaunch/</loc>
-    <lastmod>2024-01-14T20:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://chrisclarkson.org/tags/security/</loc>
-    <lastmod>2024-01-14T20:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://chrisclarkson.org/tags/</loc>
-    <lastmod>2024-01-14T20:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://chrisclarkson.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2018-10-01T16:52:02+01:00</lastmod>
   </url><url>
-    <loc>https://chrisclarkson.org/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

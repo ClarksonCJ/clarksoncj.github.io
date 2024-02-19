@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Intelligence Operations on ChrisClarkson.org</title>
+    <link>http://localhost:1313/tags/security-intelligence-operations/</link>
+    <description>Recent content in Security Intelligence Operations on ChrisClarkson.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jan 2024 20:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/security-intelligence-operations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting a new role in Cybersecurity</title>
+      <link>http://localhost:1313/posts/new_beginnings/</link>
+      <pubDate>Wed, 31 Jan 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new_beginnings/</guid>
+      <description>A new role with a company can be a daunting experience. I hope these tips are helpful</description>
+    </item>
+  </channel>
+</rss>
