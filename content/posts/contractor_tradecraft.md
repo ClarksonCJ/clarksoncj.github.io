@@ -4,6 +4,26 @@ publishDate = 2024-02-24T20:00:00Z
 title = "Tradecraft for Security Contractors"
 slug = "contractor_tradecraft"
 tags = [
+    "Security Engineering Contractor Tips",
+    "Digital Nomad Security Expertise",
+    "Evolving Security Technologies",
+    "Continuous Learning for Security Professionals",
+    "Security Certification Guidance (CISSP, OSCP, GIAC)",
+    "Networking for Security Contractors",
+    "Client Engagement Strategies for Security",
+    "Tax Planning for Freelancers UK",
+    "Income Management for Contractors",
+    "Professional Networking in Cybersecurity",
+    "Work-Life Balance for Security Professionals",
+    "Soft Skills for Security Contractors",
+    "Building a Security Contractor Career",
+    "Financial Literacy for Freelancers",
+    "Cybersecurity Contracting Best Practices",
+    "Personal Branding for Security Experts",
+    "Contractor's Guide to Skill Development",
+    "Managing Workload in Security Contracting",
+    "Self-Care for Cybersecurity Professionals",
+    "Future of Freelancing in Tech",
 ]
 categories = ["Posts"]
 thumbnail = "images/new_role_post_logo.png"
