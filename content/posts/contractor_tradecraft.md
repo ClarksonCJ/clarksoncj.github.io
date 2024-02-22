@@ -217,7 +217,7 @@ the daily grind. Picture yourself as a bodybuilder, where the rhythm of rest and
 in step with the rigor of training. Embrace downtime, indulge in leisure reading, or partake in activities
 outside the realm of work. Echoing the mantra of the fitness influencer realm, don't shy away from a
 "deload" phase. It's not necessarily about jetting off on a vacation; active recovery works wonders too,
-provided it eases the strain on your mental biceps.
+provided it eases the strain on your mental muscles.
 
 - **Learn to Say No:** Acknowledge your limits. Overcommitting is a fast track to burnout, dimming your brilliance quicker than a power outage.
 - **Set Boundaries:** Carve out your professional time with the precision of a sculptor. Your off-hours are a sanctum, inviolable and pure.
@@ -251,6 +251,6 @@ a wider audience of professionals charting their course in the evolving workplac
 So, I encourage you to spread the word, sharing the wisdom contained in this guide far and wide.
 As the landscape of work undergoes its relentless transformation, the exchange of our collective tradecraft
 insights will play a pivotal role in shaping a future where change is not just anticipated but navigated with grace
-and expertise. The dialogue we foster today lays the groundwork for a tomorrow where the ethos of contracting
-and freelancing not only adapts but thrives, heralding a new era of professional excellence and personal fulfillment.
+and expertise. The dialogue we foster today lays the groundwork for a tomorrow where the ethos of work, whether thats
+contracting, freelancing or permanent not only adapts but thrives, heralding a new era of professional excellence and personal fulfillment.
 
