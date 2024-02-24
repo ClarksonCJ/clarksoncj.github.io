@@ -1,6 +1,6 @@
 +++
-date = 2024-02-24T20:00:00Z
-publishDate = 2024-02-24T20:00:00Z
+date = 2024-02-24T16:00:00Z
+publishDate = 2024-02-24T16:00:00Z
 title = "Tradecraft for Security Contractors"
 slug = "contractor_tradecraft"
 tags = [
