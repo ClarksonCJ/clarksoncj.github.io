@@ -98,14 +98,14 @@ Securing access to secrets is as crucial as managing their creation and lifecycl
 control who can access what secrets and under what circumstances are fundamental to maintaining system integrity
 and confidentiality.
 
-### Role-Based Access Control (RBAC)
+### Role-Based Access Control ([RBAC](https://www.cloudflare.com/en-gb/learning/access-management/role-based-access-control-rbac/))
 
 Role-Based Access Control (RBAC) is the most commonly implemented model in secret management. It restricts
 system access based on a person's role within an organisation and is particularly effective in environments with
 distinct operational roles. RBAC helps in minimising the risk of unauthorised access by ensuring that
 only personnel with a legitimate need can access certain secrets.
 
-### Attribute-Based Access Control (ABAC)
+### Attribute-Based Access Control ([ABAC](https://www.okta.com/blog/2020/09/attribute-based-access-control-abac/))
 
 While not as widespread as RBAC, Attribute-Based Access Control (ABAC) offers a more granular approach. ABAC
 uses policies that evaluate attributes (or characteristics), rather than roles, to make access decisions.
@@ -160,7 +160,7 @@ To protect secrets from misuse and compromise, organisations must employ a range
 preventive measures that not only address immediate security concerns but also
 mitigate potential future risks.
 
-#### Use of Short-Lived Secrets and Dynamic Secrets
+__*Use of Short-Lived Secrets and Dynamic Secrets*__
 
 One of the most effective strategies in secret management is the implementation
 of short-lived and dynamic secrets, which are designed to minimise the risks
@@ -181,7 +181,7 @@ resilient secret management system. They force a continuous renewal and verifica
 process, encourage the automation of credential management, and limit the exposure
 time of sensitive information, thereby enhancing overall security posture.
 
-#### Regular Rotation of Secrets
+__*Regular Rotation of Secrets*__
 
 Regular rotation of secrets is another critical preventive measure. By changing
 secrets at predefined intervals or in response to specific events (e.g.,
@@ -190,7 +190,7 @@ limit the lifespan of any secret, thereby reducing the chance that a compromised
 secret will be used maliciously. Automated systems can be particularly useful here,
 ensuring that rotations occur consistently and without human error.
 
-#### Limiting Secret Exposure
+__*Limiting Secret Exposure*__
 
 Additional strategies to limit the exposure of secrets include:
 
