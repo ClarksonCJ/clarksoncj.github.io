@@ -1,6 +1,6 @@
 +++
-date = 2024-04-30T16:00:00Z
-publishDate = 2024-04-30T16:00:00Z
+date = 2024-04-30T06:00:00Z
+publishDate = 2024-04-30T06:00:00Z
 title = "Securing the Lifecycle of Secrets: Best Practices for Robust System and Supply Chain Security"
 slug = "supply-chain-secrets-security"
 tags = [
