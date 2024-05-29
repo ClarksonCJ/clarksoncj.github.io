@@ -48,15 +48,15 @@ extends far beyond third-party libraries and open-source components. It encompas
 people, processes, and technologies that collectively contribute to the development and
 deployment of modern systems and applications. This includes not only external dependencies
 but also the intricate interactions between various teams within an
-organization — developers, testers, and operations — and the systems they use,
+organisation — developers, testers, security and operations — and the systems they use,
 such as Continuous Integration/Continuous Deployment (CI/CD) pipelines
 and cloud services.
 
 Securing the software supply chain has become a critical priority, highlighted
 by recent high-profile incidents that exposed vulnerabilities not just in code,
 but in processes and technologies. These events underscore the need to adopt a
-holistic approach to supply chain security, addressing risks associated with people,
-processes, and technology. The integration of Artificial Intelligence (AI) and
+holistic approach to supply chain security, addressing risks associated with people, and
+process, as well as technology. The integration of Artificial Intelligence (AI) and
 Large Language Models (LLMs) into the supply chain presents both new threats and
 significant opportunities. AI and LLMs can be used by attackers to automate and scale
 sophisticated cyber-attacks, create realistic phishing scams, and exploit
@@ -68,7 +68,7 @@ This article aims to broaden the concept of supply chain security by examining
 these three crucial aspects. We will explore how the interactions between teams,
 the workflows they follow, and the technologies they employ can introduce risks
 at various stages of the supply chain. By understanding these risks and
-implementing comprehensive security measures, organizations can better
+implementing comprehensive security measures, organisations can better
 protect their systems and data from potential threats.
 
 Whether you're a seasoned software architect or a security professional, this
@@ -80,9 +80,9 @@ mitigate these risks.
 
 With this overview in mind, let’s begin our journey into securing the
 software supply chain by examining the critical intersections of people,
-processes, and technology.
+process, and technology.
 
-## Understanding the Expanded Software Supply Chain
+## Expanding our Understanding of the Software Supply Chain
 
 The software supply chain is an intricate and essential component of modern
 software development and deployment. It goes beyond just the code and libraries to
@@ -97,7 +97,7 @@ Traditionally, the software development lifecycle is seen as a series of steps a
 involved in developing, building, testing, and deploying software. The SDLC supply chain includes
 third-party libraries, open-source components, proprietary software, and hardware. However, a
 comprehensive approach broadens this definition to encompass the human and procedural elements
-that are integral to these technical components.
+that are integral to the use of these technical components.
 
 #### Key Components
 
@@ -105,6 +105,8 @@ that are integral to these technical components.
 
 - These are pre-written code libraries or frameworks that developers use to accelerate
   development. They come with inherent risks, including potential vulnerabilities and malicious code.
+- The suppliers are also subject to supply chain risks of their own, and a compromise of upstream
+supply chains poses a direct risk to the consumers of these libraries and frameworks.
 
 2. Open-Source Components
 
@@ -114,17 +116,21 @@ that are integral to these technical components.
 
 3. Proprietary Software
 
-- Internally developed software that, while more controlled, still poses direct and indirect risks
-  related to internal processes and communication.
+- Internally developed software that, while more controlled, can still pose direct and indirect risks
+to the systems and processes involved in software delivery.
+- Considerations of "Build vs Buy" for internal tooling have to balance the internal supply chain risks of building in-house
+against the risks posed by onboarding a supplier.
 
 4. Hardware
 
-- Physical devices and infrastructure that support software operations, vulnerable to
+- Physical devices and infrastructure that support software operations, can be vulnerable to
   supply chain attacks at the manufacturing or distribution stages.
+- BYOD policies can amplify or introduce risk by allowing personal hardware to access data, code, and tooling
+that has not been under the same scrutiny as company issued devices.
 
 5. Inter-Team Interactions
 
-- Effective collaboration and communication between development, testing, and
+- Effective collaboration and communication between development, testing, security, and
   operations teams are crucial. Miscommunication or siloed operations can lead
   to security oversights and process inefficiencies.
 
@@ -155,12 +161,12 @@ and workflows.
 The modern software supply chain is a complex, interconnected web where the failure
 or compromise of one component can have cascading effects. For example, a
 vulnerability in a widely-used open-source library can affect multiple projects
-and organizations. Similarly, poor communication between development and operations
+and organisations. Similarly, poor communication between development and operations
 teams can result in misconfigured systems that are vulnerable to attacks.
 
 Understanding this complexity is crucial for identifying where risks might emerge
 and implementing strategies to mitigate them. It requires a holistic approach that
-considers technical, human, and procedural factors, ensuring that all aspects
+considers technical, human, and procedural factors throughout the SDLC, ensuring that all aspects
 of the supply chain are robust and secure.
 
 With this understanding of the expanded software supply chain, we can now
@@ -171,10 +177,23 @@ supply chain and the best practices to secure each stage.
 ## The Software Development Lifecycle and Associated Supply Chain Risks
 
 The software development lifecycle encompasses various stages, each with its own set of
-supply chain risks. By understanding these stages, organizations can implement targeted
-security measures to protect their systems.
+supply chain risks. By understanding these stages, organisations can implement targeted
+security measures to protect their systems. Engineering leaders should work with Security to look closely at
+their SDLC, and seek to understand the risks at each stage.
 
-1. Development
+Here are some examples at each stage of the SDLC.
+
+1. Design
+
+- **Components**: Architecture, Technology Selection, Requirements, and Standards
+- **Risks**: Improper Design, Conflicting Priorities, Inappropriate Technology Choices.
+- **Best Practices**:
+  - Industry best practices for solutions architectures
+  - Peer reviewed architecture and feature designs
+  - Strong Security culture throughout engineering organisations.
+  - Threat Modelling and Risk management processes
+
+2. Development
 
 - **Components**: Use of third-party libraries, frameworks, and proprietary code.
 - **Risks**: Vulnerable code, malicious code injection, poor communication.
@@ -183,7 +202,7 @@ security measures to protect their systems.
   - Implement dependency management tools.
   - Foster effective communication protocols among team members.
 
-2. Build and Integration
+3. Build and Integration
 
 - **Components**: CI/CD pipelines, build tools.
 - **Risks**: Compromised build tools, misconfigurations, malicious build scripts.
@@ -192,7 +211,7 @@ security measures to protect their systems.
   - Use signed artifacts and verify integrity.
   - Ensure cross-team coordination to prevent misconfigurations.
 
-3. Testing
+4. Testing
 
 - **Components**: Automated and manual testing processes.
 - **Risks**: Unsecure test environments, exposure of sensitive data, inadequate testing coverage.
@@ -201,7 +220,7 @@ security measures to protect their systems.
   - Anonymize test data to protect sensitive information.
   - Develop comprehensive test plans to cover all potential vulnerabilities.
 
-4. Distribution
+5. Distribution
 
 - **Components**: Cloud repositories, software registries.
 - **Risks**: Repository compromises, tampered packages, insecure distribution channels.
@@ -209,8 +228,9 @@ security measures to protect their systems.
   - Verify checksums and use signed packages.
   - Employ secure distribution practices.
   - Establish clear distribution protocols to ensure integrity.
+  - Maintain a verified cache of package dependencies to ensure availability and limit opportunities for tampering.
 
-5. Deployment
+6. Deployment
 
 - **Components**: Production environments, deployment tools.
 - **Risks**: Deployment of compromised software, insecure configurations, rushed deployments.
@@ -219,7 +239,7 @@ security measures to protect their systems.
   - Implement configuration management practices.
   - Monitor deployments and use staged rollouts to mitigate risks.
 
-6. Maintenance and Updates
+7. Maintenance and Updates
 
 - **Components**: Software updates, patch management.
 - **Risks**: Update hijacking, delayed patching, insufficient update processes.
@@ -228,17 +248,17 @@ security measures to protect their systems.
   - Develop and follow robust patch management policies.
   - Regularly review and update maintenance processes to address new vulnerabilities.
 
-By securing each stage of the software supply chain, organizations can significantly reduce
-their risk exposure. This requires a concerted effort to address not only technical
-vulnerabilities, but also the processes and people involved. Understanding these
-risks and implementing best practices is essential for a holistic approach
-to supply chain security.
+By understanding and securing each stage of the software supply chain, organisations can significantly reduce
+their risk exposure. This requires a strategically concerted effort to address not only technical
+vulnerabilities, but also the processes and people involved across the engineering domain. Understanding these
+risks and implementing best practices is essential for a holistic approach to supply chain security.
 
 We'll delve more into each stage further in future articles, where we will expand on the best
 practices to provide examples of each to support the continuous improvement of your supply chain security.
 
-Next, we'll explore internal and external threats to the supply chain and the
-strategies to mitigate these threats.
+Next, we'll explore some internal and external threats to the supply chain and the
+strategies to mitigate these threats. You can be sure that this list isn't comprehensive,
+it is merely a dip into the issue to provide some idea of the threats that exist.
 
 ## Internal and External Threats to the Supply Chain
 
@@ -284,8 +304,8 @@ threat vectors have also come into play, further complicating the security lands
   - Use threat intelligence services to stay informed about emerging threats.
   - Employ multi-factor authentication (MFA) to secure access to critical systems.
 
-**2. Supply Chain Attacks**
-- **Risks**: Compromise of third-party components, watering hole attacks.
+**2. Attacks against your Supply Chain**
+- **Risks**: Compromise of third-party components, Supplier Compromise, watering hole attacks.
 - **Mitigation Strategies**:
   - Conduct thorough vetting and continuous monitoring of third-party vendors.
   - Use signed and verified components to ensure integrity.
@@ -301,13 +321,13 @@ threat vectors have also come into play, further complicating the security lands
   - Educate employees about the risks of AI-powered social engineering attacks and how to recognize them.
 
 By understanding and addressing these internal and external threats, including those posed by the emergence of AI and LLMs,
-organizations can build a more resilient supply chain. This involves not only
+organisations can build a more resilient supply chain. This involves not only
 implementing technical controls but also fostering a security-conscious culture
 and maintaining vigilant oversight of all supply chain activities.
 
 In the final section, we will recap the key points and discuss the importance of
 a holistic approach to supply chain security, providing actionable steps to
-enhance your organization's defenses.
+enhance your organisation's defenses.
 
 ## Conclusion
 
@@ -315,19 +335,23 @@ Securing the software supply chain requires a holistic approach that addresses t
 and procedural aspects of development and deployment. The integration of AI and
 Large Language Models (LLMs) adds a new dimension to this challenge, offering both
 risks and opportunities for attackers and defenders alike. Let's recap the key points
-and discuss actionable steps to enhance your organization's supply chain security.
+and discuss actionable steps to enhance your organisation's supply chain security.
 
 ### Recap of Key Points
 
 1. **Expanded Scope of the Software Supply Chain**
 
    - Beyond third-party libraries and open-source components, the supply chain includes people, processes, and technology.
+   - Your organisation is both a Consumer and producer within the supply chain. Your approach should look to protect
+   you from upstream threats (Suppliers and Third-Parties), but also protect those downstream (Customers, Clients, Consumers)
+   if you were to be attacked.
    - Key components include third-party libraries, open-source components, proprietary software, hardware, inter-team
    interactions, systems like CI/CD pipelines, and the architecture of both software and the enterprise.
 
-2. **Stages of the Software Supply Chain and Associated Risks**
+2. **Stages of the Software Development Lifecycle and Associated Supply Chain Risks**
 
-   - Each stage, from development to maintenance and updates, has its unique risks.
+   - Take a strategic view of your SDLC, understand each stage and how to protect it, but also how those protections cascade to future stages.
+   - Each stage, from design and development to maintenance and updates, has its unique risks.
    - Regularly review and look to implement best practices for securing each stage include thorough code reviews, secure configurations, comprehensive testing,
    secure distribution practices, deployment validation, and automated updates.
 
@@ -335,7 +359,7 @@ and discuss actionable steps to enhance your organization's supply chain securit
 
    - Internal threats include insider threats, process-related risks, and AI-related risks such as
    misuse of AI tools and unintentional bias.
-   - External threats include external attackers, supply chain attacks, and AI-related threats such
+   - External threats include direct external attackers, attacks against your supply chain, and AI-related threats such
    as adversarial attacks on AI models and automated spear-phishing attacks.
 
 4. **Impact of AI and LLMs**
@@ -386,21 +410,21 @@ to enhance security measures and stay ahead of emerging threats.
 7. **Be Aware of Downstream Implications**
 
    - Remember that if your supply chain is compromised, you may unwittingly contribute to the compromise of someone downstream.
-   Ensuring robust security practices protects not only your organization but also your partners and clients.
+   Ensuring robust security practices protects not only your organisation but also your partners and clients.
 
-By taking these steps, organizations can significantly enhance their supply chain security
+By taking these steps, organisations can significantly enhance their supply chain security
 and build resilience against both current and future threats. This proactive
 approach is essential for protecting your systems, data, and reputation in an increasingly complex
 and interconnected digital world. No one person or company is an island, everyone has a dependency on someone or
-something else, by understanding where you sit as a link the larger supply chain is you can contribute to
+something else, by understanding where you sit as a link in the wider supply chain you can contribute to
 improving the security of the digital world for everyone.
 
 ## A Call to Action
 
 As we navigate the evolving landscape of supply chain security, it is crucial to remain vigilant and proactive.
 Evaluate your own supply chain security across all dimensions — people, processes,
-and technology — and implement the best practices discussed in this article. Remember, if your supply chain is compromised,
-you may unwittingly contribute to the compromise of someone downstream. For further
+and technology — both up and downstream. Consider implementing some of the best practices discussed in this article.
+Remember, if your supply chain is compromised, you may unwittingly contribute to the compromise of someone downstream. For further
 reading and tools, explore the resources provided below.
 
 ---
@@ -415,7 +439,7 @@ and other authoritative sources to help you enhance your understanding and imple
 1. **NIST Special Publication 800-161 Revision 1**:
 
    - This publication provides comprehensive guidance on cybersecurity supply chain risk management (C-SCRM).
-   It covers identifying, assessing, and mitigating risks throughout the supply chain at all organizational levels.
+   It covers identifying, assessing, and mitigating risks throughout the supply chain at all organisational levels.
    - [Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations](https://doi.org/10.6028/NIST.SP.800-161r1)
 
 2. **Executive Order 14028 Guidance**:
@@ -432,7 +456,7 @@ and other authoritative sources to help you enhance your understanding and imple
 
 4. **NIST Cyber Supply Chain Risk Management (C-SCRM) Program**:
 
-   - This program provides ongoing research, resources, and stakeholder engagement to help organizations manage supply chain risks.
+   - This program provides ongoing research, resources, and stakeholder engagement to help organisations manage supply chain risks.
    It includes foundational and enterprise-wide practices for effective risk management.
    - [Cybersecurity Supply Chain Risk Management](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)
 
@@ -442,19 +466,19 @@ and other authoritative sources to help you enhance your understanding and imple
 
    - The NCSC offers a comprehensive collection of guidance documents focused on supply chain security. These resources
    provide practical advice on managing supply chain risks, including principles for maintaining control over the
-   supply chain and steps to improve organizational cyber resilience.
+   supply chain and steps to improve organisational cyber resilience.
    - [Supply Chain Security Guidance](https://www.ncsc.gov.uk/collection/supply-chain-security)
 
 2. **Assessing Supply Chain Cyber Security**:
 
-   - This guidance helps organizations assess the cyber security of their supply chains. It covers
+   - This guidance helps organisations assess the cyber security of their supply chains. It covers
    establishing a risk management approach, involving key stakeholders, and creating repeatable processes
    for supplier assessment.
    - [Assess Supply Chain Cyber Security](https://www.ncsc.gov.uk/files/Assess-supply-chain-cyber-security.pdf)
 
 3. **Principles for Supply Chain Security**:
 
-   - The NCSC outlines 12 principles designed to help organizations gain and maintain control over their supply
+   - The NCSC outlines 12 principles designed to help organisations gain and maintain control over their supply
    chains. These principles cover aspects such as understanding supply chain dependencies, establishing effective
    communication channels, and ensuring continuous improvement.
    - [Principles for Supply Chain Security](https://www.ncsc.gov.uk/collection/supply-chain-security/principles-supply-chain-security)
@@ -462,7 +486,7 @@ and other authoritative sources to help you enhance your understanding and imple
 4. **Supply Chain Mapping Recommendations**:
 
    - The NCSC provides recommendations for mapping supply chain dependencies to better anticipate and
-   mitigate cyber risks. This guidance helps organizations identify critical supply chain components and
+   mitigate cyber risks. This guidance helps organisations identify critical supply chain components and
    assess their vulnerabilities.
    - [Supply Chain Mapping Recommendations](https://www.ncsc.gov.uk/guidance/mapping-your-supply-chain)
 
