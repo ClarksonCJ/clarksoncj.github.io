@@ -1,7 +1,7 @@
 +++
 date = 2024-05-31T06:00:00Z
 publishDate = 2024-05-30T06:00:00Z
-title = "Software Supply Chain Security: A Holistic Approach to People, Processes, and Technology"
+title = "Software Supply Chain Security: A Holistic Approach to People, Processes, and Technology in a Secure SDLC"
 slug = "understanding-the-software-supply-chain"
 tags = [
     "software supply chain security",
@@ -91,10 +91,10 @@ software from conception to production. This expanded view allows us to better
 understand the multifaceted nature of supply chain security and the various points
 where vulnerabilities can arise.
 
-### Definition of the Software Supply Chain
+### Definition of the Software Supply Chain in the SDLC
 
-Traditionally, the software supply chain is seen as a series of steps and components
-involved in developing, building, testing, and deploying software. This includes
+Traditionally, the software development lifecycle is seen as a series of steps and components
+involved in developing, building, testing, and deploying software. The SDLC supply chain includes
 third-party libraries, open-source components, proprietary software, and hardware. However, a
 comprehensive approach broadens this definition to encompass the human and procedural elements
 that are integral to these technical components.
@@ -289,7 +289,7 @@ threat vectors have also come into play, further complicating the security lands
 - **Mitigation Strategies**:
   - Conduct thorough vetting and continuous monitoring of third-party vendors.
   - Use signed and verified components to ensure integrity.
-  - Implement network segmentation to limit the impact of a potential breach.
+  - Implement network segmentation to limit the impact of a potential breach, consider architectural patterns such as Zero Trust.
   - Develop an incident response plan specifically tailored to supply chain attacks.
 
 **3. AI and LLM-Related Threats**
@@ -322,22 +322,28 @@ and discuss actionable steps to enhance your organization's supply chain securit
 1. **Expanded Scope of the Software Supply Chain**
 
    - Beyond third-party libraries and open-source components, the supply chain includes people, processes, and technology.
-   - Key components include third-party libraries, open-source components, proprietary software, hardware, inter-team interactions, systems like CI/CD pipelines, and the architecture of both software and the enterprise.
+   - Key components include third-party libraries, open-source components, proprietary software, hardware, inter-team
+   interactions, systems like CI/CD pipelines, and the architecture of both software and the enterprise.
 
 2. **Stages of the Software Supply Chain and Associated Risks**
 
    - Each stage, from development to maintenance and updates, has its unique risks.
-   - Best practices for securing each stage include thorough code reviews, secure configurations, comprehensive testing, secure distribution practices, deployment validation, and automated updates.
+   - Regularly review and look to implement best practices for securing each stage include thorough code reviews, secure configurations, comprehensive testing,
+   secure distribution practices, deployment validation, and automated updates.
 
 3. **Internal and External Threats**
 
-   - Internal threats include insider threats, process-related risks, and AI-related risks such as misuse of AI tools and unintentional bias.
-   - External threats include external attackers, supply chain attacks, and AI-related threats such as adversarial attacks on AI models and automated spear-phishing attacks.
+   - Internal threats include insider threats, process-related risks, and AI-related risks such as
+   misuse of AI tools and unintentional bias.
+   - External threats include external attackers, supply chain attacks, and AI-related threats such
+   as adversarial attacks on AI models and automated spear-phishing attacks.
 
 4. **Impact of AI and LLMs**
 
-   - **For Attackers**: AI can be used to automate attacks, create more sophisticated social engineering schemes, and exploit vulnerabilities at scale.
-   - **For Defenders**: AI can enhance threat detection, automate responses, and improve the overall security posture through predictive analytics and continuous monitoring.
+   - **For Attackers**: AI can be used to automate attacks, create more sophisticated social engineering schemes,
+   and exploit vulnerabilities at scale.
+   - **For Defenders**: AI can enhance threat detection, automate responses, and improve the overall security
+   posture through predictive analytics and continuous monitoring.
 
 ### Importance of a Holistic Approach
 
