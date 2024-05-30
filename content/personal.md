@@ -6,9 +6,9 @@ author = "Chris"
 thumbnail = "images/tn.png"
 description = "Chris Clarkson: Engineer, Architect, Maker, and Breaker"
 draft = false
-showToc = true
+showToc = false
 TocOpen = false
-hidemeta = false
+hidemeta = true
 comments = false
 disableShare = false
 disableHLJS = false
@@ -51,7 +51,7 @@ to create trinkets, toys, and useful items for my family and other passions.
 * A fan of Sci-Fi and Fantasy – think WH40K, MCU, LoTR, Harry Potter, and more.
 * Eclectic music taste.
 * Rides a Kawasaki Ninja 600 but dreams of owning a Harley.
-* Practices Freestyle Karate (Orange belt, inspired by Goju Karate) at Black Paw Martial Arts Academy.
+* Practices Freestyle Karate (Purple belt, inspired by Goju Karate) at Black Paw Martial Arts Academy.
 * Avid reader and committed to lifelong learning.
 
 Got questions or just want to chat about cybersecurity (or anything else)? Feel free to hit me up on [Twitter](https://x.com/clarksoncj).

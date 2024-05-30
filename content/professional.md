@@ -62,7 +62,7 @@ tags = [
 draft = false
 showToc = false
 TocOpen = false
-hidemeta = false
+hidemeta = true
 comments = false
 disableShare = false
 disableHLJS = false
@@ -81,7 +81,7 @@ UseHugoToc = false
 ---
 
 #### **Christopher Clarkson**
-**Engineer & Consultant | Security & DevSecOps**
+**Engineer & Consultant | Cloud Security & DevSecOps**
 
 ---
 
