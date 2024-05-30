@@ -1,6 +1,6 @@
 +++
 date = 2024-05-31T06:00:00Z
-publishDate = 2024-05-30T06:00:00Z
+publishDate = 2024-05-31T06:00:00Z
 title = "Software Supply Chain Security: A Holistic Approach to People, Processes, and Technology in a Secure SDLC"
 slug = "understanding-the-software-supply-chain"
 tags = [
@@ -21,7 +21,7 @@ tags = [
     "third-party risk management"
 ]
 categories = ["Posts"]
-thumbnail = "images/supply-chain.png"
+thumbnail = "/images/supply-chain.png"
 description = "Discover how to secure your software supply chain from end to end by addressing the critical intersections of people, processes, and technology, including the emerging risks and opportunities presented by AI and LLMs."
 draft = false
 showDate = "true"
@@ -182,6 +182,8 @@ security measures to protect their systems. Engineering leaders should work with
 their SDLC, and seek to understand the risks at each stage.
 
 Here are some examples at each stage of the SDLC.
+
+![SDLC!](/images/SDLC.png)
 
 1. Design
 

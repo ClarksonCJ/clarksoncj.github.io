@@ -24,7 +24,7 @@ tags = [
   "Navigating Cybersecurity Challenges"
 ]
 categories = ["Posts"]
-thumbnail = "images/new_role_post_logo.png"
+thumbnail = "/images/new_role_post_logo.png"
 description = "A new role with a company can be a daunting experience. I hope these tips are helpful"
 draft = false
 showDate = "true"
