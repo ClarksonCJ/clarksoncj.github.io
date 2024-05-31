@@ -29,7 +29,7 @@ tags = [
     "Cybersecurity Career Tips",
 ]
 categories = ["Posts"]
-thumbnail = "images/new_role_post_logo.png"
+thumbnail = "/images/new_role_post_logo.png"
 description = "Some insights into the tradecraft of a security engineering contractor. Delivering for your customer and yourself."
 draft = false
 showDate = "true"

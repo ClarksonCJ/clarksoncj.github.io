@@ -22,11 +22,14 @@ languages:
         - name: Personal
           weight: 1
           url: /personal/
-        - name: Blog
+        - name: Professional
           weight: 2
+          url: /professional/
+        - name: Blog
+          weight: 4
           url: /posts/
         - name: Tags
-          weight: 3
+          weight: 4
           url: /tags/
           enableRobotsTXT: true
           paginate: 20
@@ -44,7 +47,7 @@ params:
     - cloud
     - AWS
     - GCP
-  avatarurl: images/chrisclarkson.jpg
+  avatarurl: /images/chrisclarkson.jpg
   DataFormat: 'January 2, 2006'
   defaultTheme: dark
   disableThemeToggle: false
@@ -53,7 +56,6 @@ params:
   itemscentered: true
   rtl: false
   snsShare: true
-  thumbnail: images/favicon.png
   langseparator: '|'
   ShowReadingTime: true
   ShowShareButtons: true
@@ -77,7 +79,7 @@ params:
       Seasoned Security Architect & Engineer | Safeguarding Cloud, Applications,
       and Software Supply Chains | Designing Secure Solutions with AI, Zero Trust
       and DevSecOps
-    imageUrl: images/chrisclarkson.jpg
+    imageUrl: /images/chrisclarkson.jpg
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image

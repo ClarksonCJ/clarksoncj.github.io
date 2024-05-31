@@ -17,7 +17,7 @@ tags = [
   "third-party vendor security",
 ]
 categories = ["Posts"]
-thumbnail = "images/secrets-management.png"
+thumbnail = "/images/secrets-management.png"
 description = "Explore essential security practices and future trends in managing secrets across computer systems and supply chains."
 draft = false
 showDate = "true"

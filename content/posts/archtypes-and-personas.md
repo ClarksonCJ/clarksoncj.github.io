@@ -22,7 +22,7 @@ tags = [
 ]
 
 categories = ["Posts"]
-thumbnail = "images/archtypes.png"
+thumbnail = "/images/archtypes.png"
 description = "Explore the diverse world of cybersecurity through five key archetypes, unveiling how your unique skills can pave the way for a fulfilling career in protecting the digital landscape."
 draft = false
 showDate = "true"
