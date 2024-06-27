@@ -81,7 +81,12 @@ How often do you consider the risks before making a decision?
 
 ### Fostering a Risk-Aware Culture
 
-Creating a culture of risk awareness involves:
+Creating a culture of risk awareness is essential to effectively integrating risk
+assessment into every decision-making process. By embedding this mindset
+throughout the organization, you ensure that every team member is
+equipped to recognize and mitigate potential threats early on.
+
+This cultural shift can be achieved with:
 
 1. **Training**: Continuous education on risk assessment techniques.
 2. **Communication**: Open discussions about potential risks.
@@ -97,13 +102,13 @@ approach empowers us to navigate challenges with resilience and foresight.
 By weaving risk awareness into our daily decisions, we can master a variety of
 situations with greater confidence and security.
 
-Understanding our personal risk tolerances helps us strike a balance between
+Understanding our own personal risk tolerances helps us strike a balance between
 caution and boldness. As the saying goes, “Fortune favors the bold, but the
-second mouse gets the cheese.”. Self-awareness and a well-developed awareness of risk
+second mouse gets the cheese”. Self-awareness and a well-developed awareness of risk
 often leads to more informed and confident decisions.
 
 Aligning our individual risk assessments with our organization’s risk
-framework is crucial. If we’re too risk-averse, we might miss out
+framework is also crucial. If we’re too risk-averse, we might miss out
 on opportunities. Conversely, taking excessive risks might exceed the
 company’s acceptable threshold, leading to project failures or setbacks.
 By integrating personal risk awareness with an understanding of the business’s
@@ -111,38 +116,54 @@ risk tolerance, we contribute to a balanced and effective decision-making proces
 
 ## Risk Aware Software Engineering
 
-As software engineers and cybersecurity professionals, risk awareness is critical in our
-development lifecycle. Consider the development of a new web application. By
-anticipating potential risks such as SQL injection and cross-site scripting,
-developers can build robust security measures right from the start. This proactive
-approach helps identify vulnerabilities early, allowing us to implement robust
-security measures before they become exploitable.
+As software engineers and cybersecurity professionals, being aware of risks is
+crucial in our development lifecycle. When developing a new web application,
+anticipating potential risks like SQL injection and cross-site scripting allows
+us to incorporate strong security measures from the outset. This proactive
+approach helps identify vulnerabilities early, making it easier to address them
+before they become significant issues.
 
 However, the pressure to meet tight deadlines and deliver functional features often
 overshadows the need for comprehensive threat assessments. To address this,
-organizations must embrace the agility of iterative threat models rather than relying
-solely on large-scale, monolithic risk assessments for a project. This
-shift-left approach involves aligning with modern software development practices by
-integrating continuous risk assessment activities into the SDLC,
-ensuring that risk awareness is a constant part of the workflow from the earliest stages.
+organizations must adopt agile, iterative threat models instead of relying solely
+on large, monolithic risk assessments. This shift-left approach aligns with
+modern software development practices, ensuring continuous risk assessment
+activities are integrated into the SDLC from the earliest stages.
 
-By embedding a decision-making framework into the development process, businesses can
-achieve a harmonious balance where security complements progress rather than impedes it.
-This approach ensures that security measures are prioritized appropriately without
-stalling development. For example, rather than performing a single, exhaustive threat
-assessment at the end of the project, smaller, iterative assessments can be conducted
-throughout the development lifecycle. This method not only maintains a high
-level of security but also allows for timely adjustments and improvements.
+I’ve been reflecting on the structure of security engineering teams and whether
+it’s time to rethink the idea of a separate team that “handles” security.
+Security is often viewed as an ivory tower, with engineering teams hesitant
+to engage due to fears of arbitrary restrictions or difficult remediation requirements.
+Perhaps it’s time to move away from the notion that security, particularly
+security engineering, sits apart from delivery teams. Instead, embedding
+security engineers within these teams can motivate and incentivize them in
+the same way as the engineers delivering the projects.
 
-How much time and resources could be saved by identifying security issues early?
+By embedding security engineers directly within development teams, they can
+facilitate ongoing threat modeling and ensure alignment with project execution
+from a delivery perspective. This integration fosters a culture where security
+measures complement progress rather than hinder it. Additionally, distributing
+security expertise across the organization ensures that knowledge and best practices
+permeate all levels and departments, significantly enhancing the overall
+security posture of the organization.
 
-Fostering a culture that values ongoing risk awareness involves providing training and
-resources to enhance skills, recognizing efforts that contribute to building secure systems,
-and encouraging open communication about potential risks. When security becomes a
-shared responsibility, integrated seamlessly into daily activities, the entire organization
-benefits from a more secure and resilient software development environment. By
-shifting left and making risk awareness an integral part of the development process,
-we can build systems that are not only functional but also inherently secure.
+A Staff-level engineer can act as a cross-functional liaison to align approaches,
+technologies, and advise on skills development, ensuring a cohesive and secure
+development process. Embedding a decision-making framework into the development
+process allows businesses to achieve a balance where security enhances progress
+without stalling it. Rather than performing a single, exhaustive threat
+assessment at the end of the project, smaller, iterative assessments can
+be conducted throughout the development lifecycle. This method not only
+maintains a high level of security but also allows for timely adjustments and improvements.
+
+Creating a culture that values ongoing risk awareness involves providing
+training and resources to enhance skills, recognizing efforts that
+contribute to building secure systems, and encouraging open communication
+about potential risks. When security becomes a shared responsibility,
+integrated seamlessly into daily activities, the entire organization benefits
+from a more secure and resilient software development environment. By
+shifting left and making risk awareness an integral part of the development
+process, we can build systems that are not only functional but also inherently secure.
 
 ## Everyday Risk Awareness
 
