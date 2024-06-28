@@ -1,6 +1,6 @@
 +++
-date = 2024-06-30T06:00:00Z
-publishDate = 2024-06-30T06:00:00Z
+date = 2024-06-28T06:00:00Z
+publishDate = 2024-06-28T06:00:00Z
 title = "Embrace Risk Awareness: Strengthen Your Cybersecurity and Everyday Decisions"
 slug = "risk-awareness"
 tags = [
