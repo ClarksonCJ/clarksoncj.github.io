@@ -38,10 +38,10 @@ stress-free place for users, I consider it a mission accomplished.
 
 ## More Than Just Cybersecurity
 
-When I'm not deep in the digital trenches, you'll find me enjoying the thrill of motorcycling or scaling heights as a
-boulderer. Family is my anchor – chasing around after my two kids and spending time with my wonderful wife keeps me
+When I'm not deep in the digital trenches, you'll find me enjoying the thrill of motorcycling, the focus of Karate, or
+the complexity of a bouldering problem. Family is my anchor – chasing around after my two kids and spending time with my wonderful wife keeps me
 grounded. Recently, I've dived into the fascinating world of 3D printing. It's a delightful hobby that allows me
-to create trinkets, toys, and useful items for my family and other passions.
+to go from digital idea to physical reality.
 
 ## InfoBytes About Chris
 
@@ -51,7 +51,7 @@ to create trinkets, toys, and useful items for my family and other passions.
 * A fan of Sci-Fi and Fantasy – think WH40K, MCU, LoTR, Harry Potter, and more.
 * Eclectic music taste.
 * Rides a Kawasaki Ninja 600 but dreams of owning a Harley.
-* Practices Freestyle Karate (Purple belt, inspired by Goju Karate) at Black Paw Martial Arts Academy.
+* Practices Freestyle Martial Arts and Goju-Ryu Karate at [Black Paw Martial Arts Academy](https://www.blackpawmartialarts.com/) in Gomersal, West Yorkshire.
 * Avid reader and committed to lifelong learning.
 
 Got questions or just want to chat about cybersecurity (or anything else)? Feel free to hit me up on [Twitter](https://x.com/clarksoncj).
