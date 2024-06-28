@@ -62,7 +62,8 @@ applying threat modeling effectively. A doctrine is a set of
 principles that guide decisions and actions, ensuring consistency
 and logic in complex scenarios.
 
-Consider how much more effective would our strategies be if we consistently applied risk awareness principles?
+Consider how much more effective our strategies would be if we consistently
+applied risk awareness principles?
 
 ### Doctrines as the Basis for Strategy
 
@@ -75,7 +76,7 @@ strategies are effective and resilient.
 A risk awareness doctrine involves embedding risk assessment into every
 decision. This proactive approach helps recognize threats, understand their
 implications, and develop mitigation strategies early,
-especially in software development with a shift-left approach.
+especially in software development using a shift-left approach.
 
 How often do you consider the risks before making a decision?
 
