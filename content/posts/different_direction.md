@@ -1,6 +1,6 @@
 +++
-date = 2025-01-31T20:00:00Z
-publishDate = 2025-01-31T20:00:00Z
+date = 2025-01-30T20:00:00Z
+publishDate = 2025-01-30T20:00:00Z
 title = "2025: A Different Direction"
 slug = "different_direction"
 tags = [
