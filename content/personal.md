@@ -47,8 +47,10 @@ In the face of all of the stresses of the world, work and play, my family is my 
 * Diverse IT background: From SysAdmin and Development to DevOps, and now, Security across my 20 year career.
 * A fan of Sci-Fi and Fantasy – think WH40K, MCU, LoTR, Harry Potter, and more.
 * Eclectic music taste.
+* Gym Enthusiast
 * Practices Freestyle Martial Arts and Goju-Ryu Karate at [Black Paw Martial Arts Academy](https://www.blackpawmartialarts.com/) in Gomersal, West Yorkshire.
 * Avid reader and committed to lifelong learning.
+* Maker - 3D Printing, Modelling and Electronics
 
 Got questions or just want to chat about cybersecurity (or anything else)? Feel free to hit me up on [BlueSky](https://bsky.app/profile/clarksoncj.bsky.social) or [Mastodon](https://infosec.exchange/deck/@ClarksonCJ).
 

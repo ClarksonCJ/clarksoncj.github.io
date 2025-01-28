@@ -82,13 +82,13 @@ UseHugoToc = false
 
 #### **Christopher Clarkson**
 
-**Engineer & Consultant | Cloud Security & DevSecOps**
+**Engineer, Architect & Consultant | Cloud Security & DevSecOps**
 
 ---
 
 **Location:** West Yorkshire, UK
 
-**Email:** <chris@chrisclarkson.org>
+**Email:** <chris@caxa-technologies.co.uk>
 
 **LinkedIn:** [cjclarkson](https://www.linkedin.com/in/cjclarkson)
 
@@ -213,14 +213,4 @@ security, and designing cloud security solutions.
 
 ---
 
-### **Interests**
-
-- **Hacker:** Bug-Bounties and Research
-- **Motorcycling**
-- **Rock Climbing and Bouldering**
-- **"Maker" (Electronics)**
-- **Drone Pilot**
-
----
-
-For inquiries or to discuss a potential project, please reach out via email or DM. Let's work together to enhance your software security and achieve your goals.
+For inquiries or to discuss a potential project, please reach out via email or DM via LinkedIn. Let's work together to enhance your software security and achieve your goals.
