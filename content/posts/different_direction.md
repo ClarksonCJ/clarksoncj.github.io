@@ -67,7 +67,7 @@ At the time, I was doing all those things myself: meeting new colleagues, settin
 
 But hindsight is a wonderful teacher. If I could go back, I’d add one crucial piece of advice: **probation periods work both ways.** They’re not just a time for the company to evaluate you—they’re your chance to evaluate whether the role aligns with what you were promised, your goals, and your values.
 
-I wish I’d written myself a checklist of what I wanted from the role and compared it regularly to what was unfolding. It might have saved me some of the challenges I faced later on.
+I wish I’d written myself a checklist of what I wanted from the role and compared it to what was actually happening. It might have saved me some of the challenges I faced later on.
 
 ---
 
@@ -85,15 +85,15 @@ This misalignment reminded me of a concept well-known in fitness: **junk volume.
 
 The parallel to work became painfully clear. In my role, I was pouring effort into strategic initiatives—building foundational solutions and tackling systemic issues. But what the company needed, and valued, were quick, tactical solutions that solved immediate pain points. My work, though well-intentioned and thoughtful, wasn’t what they were looking for. It became “junk value.”
 
-Just like in the gym, where junk volume leaves you overtrained without gains, misaligned efforts at work can lead to burnout and frustration without meaningful impact. My strategic focus was causing “fatigue” in the sense that it drained time and resources, but it didn’t drive the outcomes the company was measuring or that I was striving for. Without the right alignment between effort and goals, even the best intentions fall flat.
+Just like in the gym, where junk volume leaves you overtrained without gains, misaligned efforts at work can lead to burnout and frustration without any meaningful impact. My strategic focus was causing “fatigue” in the sense that it drained time and resources, but it didn’t drive the outcomes the company was measuring or that I was striving for. Without the right alignment between effort and goals, even the best intentions fall flat.
 
-The lesson? Effort alone isn’t enough. Value comes from contributing the right work, at the right time, aligned with the needs of the organization. Recognizing this sooner might have allowed me to adjust—or at least understand—how to bridge the gap between what I wanted to deliver and what the company needed.
+The lesson? Effort alone isn’t enough. Value comes from contributing the right thing, at the right time, aligned with the needs of the organization. Recognizing this sooner might have allowed me to adjust—or at least understand—how to bridge the gap between what I wanted to deliver and what the company needed.
 
 ---
 
 ### The Cost of Misalignment
 
-The truth is, value isn’t just about effort—it’s about alignment. What’s valuable at one company might be irrelevant at another. While I was focused on my *perceived* mandate to solve systemic issues, the company was prioritising tactical solutions. This disconnect eventually led me to a decision: to part ways with the company and find something that better matched my professional goals and personal drive.
+The truth is, value isn’t just about effort—it’s about alignment. What’s valuable at one company might be irrelevant at another. While I was focused on my **perceived** mandate to solve systemic issues, the company was prioritising tactical solutions. This disconnect eventually led me to a decision: to part ways with the company and find something that better matched my professional goals and personal drive.
 
 It wasn’t an easy choice. But as any gym-goer knows, there comes a point when you need to “deload” and focus on recovery before you can grow again.
 
