@@ -18,7 +18,7 @@ tags = [
 ]
 categories = ["Posts"]
 thumbnail = "/images/new_role_post_logo.png"
-description = "Not everything works out the way you had hoped, its how you react and move forward that counts."
+description = "Not everything works out the way you had hoped, its how you adapt and overcome that matters."
 draft = false
 showDate = "true"
 showToc = true
@@ -36,7 +36,6 @@ ShowWordCount = true
 ShowRssButtonInSectionTermList = true
 UseHugoToc = true
 +++
-
 
 Welcome back, my friend. Writing to you again in 2025 feels like coming home after a year of twists, turns, and a lot of learning. Life, like technology, evolves constantly, and sometimes, the best way to understand where you’re headed is to reflect on where you’ve been.
 
