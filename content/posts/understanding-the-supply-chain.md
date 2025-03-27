@@ -43,7 +43,7 @@ UseHugoToc = true
 
 ## Introduction
 
-In today's interconnected digital landscape, the concept of the software supply chain
+When we look at the fabric of modern digital systems, the concept of the software supply chain
 extends far beyond third-party libraries and open-source components. It encompasses the
 people, processes, and technologies that collectively contribute to the development and
 deployment of modern systems and applications. This includes not only external dependencies
@@ -273,6 +273,7 @@ threat vectors have also come into play, further complicating the security lands
 ### Internal Threats
 
 **1. Insider Threats**
+
 - **Risks**: Malicious insiders, negligent employees.
 - **Mitigation Strategies**:
   - Implement strict access controls and least privilege principles.
@@ -281,6 +282,7 @@ threat vectors have also come into play, further complicating the security lands
   - Establish clear policies and consequences for violations to deter malicious actions.
 
 **2. Process-Related Risks**
+
 - **Risks**: Communication breakdowns, process gaps, inefficient workflows.
 - **Mitigation Strategies**:
   - Develop and enforce standardized communication protocols across teams.
@@ -289,6 +291,7 @@ threat vectors have also come into play, further complicating the security lands
   - Utilize project management tools to streamline workflows and improve coordination.
 
 **3. AI and LLM-Related Risks**
+
 - **Risks**: Misuse of AI tools by insiders, unintentional bias in AI models, over-reliance on AI-generated code.
 - **Mitigation Strategies**:
   - Restrict access to AI and LLM tools to authorized personnel.
@@ -299,6 +302,7 @@ threat vectors have also come into play, further complicating the security lands
 ### External Threats
 
 **1. External Attackers**
+
 - **Risks**: Nation-state actors, cybercriminals targeting supply chain vulnerabilities.
 - **Mitigation Strategies**:
   - Implement robust perimeter defenses, including firewalls and intrusion detection systems.
@@ -307,6 +311,7 @@ threat vectors have also come into play, further complicating the security lands
   - Employ multi-factor authentication (MFA) to secure access to critical systems.
 
 **2. Attacks against your Supply Chain**
+
 - **Risks**: Compromise of third-party components, Supplier Compromise, watering hole attacks.
 - **Mitigation Strategies**:
   - Conduct thorough vetting and continuous monitoring of third-party vendors.
@@ -315,6 +320,7 @@ threat vectors have also come into play, further complicating the security lands
   - Develop an incident response plan specifically tailored to supply chain attacks.
 
 **3. AI and LLM-Related Threats**
+
 - **Risks**: Adversarial attacks on AI models, exploitation of AI-generated vulnerabilities, automated spear-phishing attacks.
 - **Mitigation Strategies**:
   - Implement robust security measures for AI models, including adversarial training.
@@ -491,4 +497,3 @@ and other authoritative sources to help you enhance your understanding and imple
    mitigate cyber risks. This guidance helps organisations identify critical supply chain components and
    assess their vulnerabilities.
    - [Supply Chain Mapping Recommendations](https://www.ncsc.gov.uk/guidance/mapping-your-supply-chain)
-
