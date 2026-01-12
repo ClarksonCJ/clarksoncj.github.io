@@ -24,7 +24,9 @@ UseHugoToc = true
 
 ### **A Security Architect, Geek, and Lifelong Learner**
 
-Hi, I’m Chris Clarkson, a Security Architect and Engineer with 20+ years of diverse experience across IT, security, and software development. I’ve worn many hats—from SysAdmin to Developer to DevOps lead—and now, I focus on designing secure solutions for cloud environments, software supply chains, and beyond. Security isn’t just a job for me; it’s a way of life. Whether working with clients on cloud-native security solutions or testing defenses through offensive security methods, I thrive on tackling complex challenges with creative, scalable solutions.
+I'm Chris Clarkson, a Security Architect and Engineer with over 20 years of experience spanning IT infrastructure, security, and software development. Throughout my career, I've progressed from SysAdmin to Engineer to leader, and now specialize in vulnerability management, cloud-native product security, and software supply chain security.
+
+Security is more than my profession—it's my passion. I work with clients to architect cloud-native security solutions and implement comprehensive vulnerability management programs that proactively identify and remediate risks across the entire technology stack. I'm driven by complex challenges that demand creative, scalable solutions.
 
 ---
 
@@ -34,6 +36,7 @@ Professionally, I specialize in creating secure, efficient systems and ensuring 
 
 - **Cloud and Application Security:** Designing scalable solutions for AWS, GCP, and Azure environments.
 - **DevSecOps and Automation:** Embedding security early in the development lifecycle, using tools like Terraform, ArgoWorkflows, and SonarQube to automate and scale secure delivery.
+- Vulnerability Management: Designing and implementing programs that identify, prioritize, and remediate vulnerabilities across diverse environments.
 - **Zero Trust and Cryptography:** Implementing zero trust architecture and cryptographic strategies to enhance data integrity and privacy.
 - **Offensive Security and Purple Teaming:** Blending offensive and defensive tactics to improve organizational resilience.
 - **Mentorship and Leadership:** Building high-performing engineering teams and fostering continuous learning within them.
@@ -71,7 +74,7 @@ My family keeps me grounded, and nothing beats chasing after my two kids or spen
 
 ### **A Philosophy of Continuous Growth**
 
-I live by the principle of lifelong learning. For me, cybersecurity isn’t just about protecting systems—it’s about evolving and educating others to use technology safely. As Simon Sinek’s concept of finding your “Why” resonates deeply with me, I’ve made it my mission to empower businesses to navigate the digital world securely. If I can help make someone’s technological experience smoother and safer, I consider it a job well done.
+I live by the principle of lifelong learning. For me, cybersecurity isn’t just about protecting systems—it’s about evolving and educating others to use technology safely. As Simon Sinek’s concept of finding your “Why” resonates deeply with me, I’ve made it my mission to empower technology users inside and out of a business setting to navigate the digital world securely. If I can help make someone’s technological experience smoother and safer, I consider it a job well done.
 
 ---
 
@@ -82,4 +85,5 @@ Curious about cybersecurity trends, cloud strategies, or even 3D printing? Feel 
 Stay secure, and let’s build something amazing together!
 
 **Email:** <chris@caxa-technologies.co.uk>
+
 **LinkedIn:** [cjclarkson](https://linkedin.com/in/cjclarkson)

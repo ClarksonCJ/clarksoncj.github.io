@@ -6,13 +6,13 @@ services:
   googleAnalytics:
     ID: G-XG3WNT68QZ
 
-baseURL: 'https://chrisclarkson.org'
+baseURL: "https://chrisclarkson.org"
 mainsections:
   - posts
 
 languages:
   en:
-    title: ChrisClarkson.org
+    title: chrisclarkson.org
     taxonomies:
       category: categories
       tag: tags
@@ -45,7 +45,7 @@ params:
     - AWS
     - GCP
   avatarurl: /images/chrisclarkson.jpg
-  DataFormat: 'January 2, 2006'
+  DataFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: false
   hideCredits: false
@@ -53,7 +53,7 @@ params:
   itemscentered: true
   rtl: false
   snsShare: true
-  langseparator: '|'
+  langseparator: "|"
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -73,9 +73,7 @@ params:
     enabled: true
     title: Chris Clarkson
     subtitle: >-
-      Experienced Security Architect & Engineer | Safeguarding Cloud, Applications,
-      and Software Supply Chains | Designing Secure Solutions with AI, Zero Trust
-      and DevSecOps
+      Experienced Security Architect & Engineer | Vulnerability Management, Cloud and Supply Chain Security | Security Built in Not Bolted On!
     imageUrl: /images/chrisclarkson.jpg
     imageWidth: 120
     imageHeight: 120
@@ -88,19 +86,19 @@ params:
   socialIcons:
     - name: Github
       weight: 1
-      url: 'https://github.com/ClarksonCJ/'
+      url: "https://github.com/ClarksonCJ/"
     - name: Gitlab
       weight: 2
-      url: 'https://gitlab.com/clarksoncj'
+      url: "https://gitlab.com/clarksoncj"
     - name: BlueSky
       weight: 3
-      url: 'https://bsky.app/profile/clarksoncj.bsky.social'
+      url: "https://bsky.app/profile/clarksoncj.bsky.social"
     - name: Mastodon
       weight: 4
-      url: 'https://infosec.exchange/@ClarksonCJ'
+      url: "https://infosec.exchange/@ClarksonCJ"
     - name: LinkedIn
       weight: 5
-      url: 'https://www.linkedin.com/in/cjclarkson/'
+      url: "https://www.linkedin.com/in/cjclarkson/"
   assets:
     favicon: favicon.png
     favicon16x16: favicon-16x16.png
